@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-filter
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+whitenoise
+gunicorn
+psycopg2-binary
